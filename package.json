@@ -2,7 +2,7 @@
   "name": "ng-app",
   "subdomain": "ng-app",
   "scripts": {
-    "start": "node server"
+    "start": "node server.js"
   },
   "version": "0.0.0",
   "engines": {
