@@ -1,6 +1,6 @@
 {
-  "name": "hashtag-dev",
-  "subdomain": "ravichandra480-hashtag-dev",
+  "name": "ng-app",
+  "subdomain": "ng-app",
   "scripts": {
     "start": "node server"
   },
